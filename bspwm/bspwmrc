@@ -16,7 +16,7 @@ polybar example &
 wmname LG3D &
 lxpolkit &
 xset -dpms s off & # disable screen blanking
-dunst &
+deadd-notification-center &
 setxkbmap fi &
 
 # Swallow
