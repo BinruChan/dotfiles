@@ -21,3 +21,5 @@ vscodium
 pulsemixer
 zsh
 deadd-notification-center
+ly
+paru
