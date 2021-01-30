@@ -1,0 +1,51 @@
+[global]
+font = Terminus 9
+line_height = 4
+
+transparency = 6
+geometry = 0x0-15+30
+
+max_icon_size = 88
+icon_position = left
+icon_path = $HOME/.local/share/icons/Papirus-Color/22x22/actions:$HOME/.local/share/icons/Papirus-Color/22x22/animations:$HOME/.local/share/icons/Papirus-Color/22x22/apps:$HOME/.local/share/icons/Papirus-Color/22x22/categories:$HOME/.local/share/icons/Papirus-Color/22x22/devices:$HOME/.local/share/icons/Papirus-Color/22x22/emblems:$HOME/.local/share/icons/Papirus-Color/22x22/emotes:$HOME/.local/share/icons/Papirus-Color/22x22/mimetypes:$HOME/.local/share/icons/Papirus-Color/22x22/panel:$HOME/.local/share/icons/Papirus-Color/22x22/places:$HOME/.local/share/icons/Papirus-Color/22x22/status
+
+padding = 20
+horizontal_padding = 20
+
+separator_height = 10
+separator_color  = auto
+
+markup = strip
+format = "%s\n\n%b"
+
+dmenu   = menu
+browser = xdg-open
+
+[shortcuts]
+history = mod1+mod4+grave
+close   = mod1+mod4+Escape
+
+[urgency_low]
+background = "$background"
+foreground = "$foreground"
+
+[urgency_normal]
+background = "$background"
+foreground = "$foreground"
+
+[urgency_critical]
+background = "$background"
+foreground = "$foreground"
+
+[volume]
+appname = volume
+timeout = 1
+set_stack_tag  = volume
+history_ignore = yes
+
+[music]
+appname = music-notify
+# timeout = 3
+set_stack_tag = music
+
+# vim: ft=config

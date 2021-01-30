@@ -1,0 +1,62 @@
+{
+   "/jIgICpicnG7mZol0Uuifz6T17IxxWzTFMMpGRA/vxg=": {
+      "expiry": 1643483039.249767,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1611947039.249772
+   },
+   "23S4wO/a7qwMShn5JqP9FSKBzxlhG/GKe3gcLpKKHPU=": {
+      "expiry": 1643483033.916053,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611947033.916059
+   },
+   "4TPtjrjTs9MVQykozV643nfACVk5lyy79weMqtk3pN4=": {
+      "expiry": 1612019578.57539,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1611933178.575394
+   },
+   "AUZVVbFrGQtNk9gKIJeseeR07Afq6mwL/5l72jB314s=": {
+      "expiry": 1643483038.754622,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611947038.754632
+   },
+   "F7/+zp5vrnMGpacwWTYm/zH56F6WNWsTcuV2GLAD0v8=": {
+      "expiry": 1643483032.447494,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611947032.4475
+   },
+   "JHeaJzSHF33b4UK+1KuuNpqoPdsH/W+BmjejBk0b1kI=": {
+      "expiry": 1643474848.807172,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1611938848.807176
+   },
+   "LcPeqUXawmVgK/diiebuXnMzcB0UPfkmSdWsHatPm6k=": {
+      "expiry": 1627499040.63573,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611947040.63574
+   },
+   "OJDDXdRlpUypduIFOsKiSHyYML6HTE+r+A/jrMTxd80=": {
+      "expiry": 1642672924.370598,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611136924.370605
+   },
+   "wmV7bNCcLePq9vG+Xr4n8V+40cbB6ldLX/j7kalDLjk=": {
+      "expiry": 1642666081.805491,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611130081.8055
+   },
+   "x8B+3ug7BinFDKC6f3qeFKSJsYsh2AK6HjwaCnl1tDc=": {
+      "expiry": 1643474848.419721,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1611938848.41973
+   }
+}

@@ -1,0 +1,2 @@
+[2021-01-27 08:42:33.876] [sharedprocess] [info] main {"machineId":"ee0360c0934a6e814df9ce0789fb4a22c392fc2a0e30cc2ce0fb884e26be76a8","windowId":2}
+[2021-01-27 08:42:33.925] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/aarni/.config/Code - OSS/User/snippets'

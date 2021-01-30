@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"https://central.github.com":{"supports_spdy":true}},{"https://avatars.githubusercontent.com":{"supports_spdy":true}},{"https://api.github.com":{"supports_spdy":true}}],"version":5},"network_qualities":{"CAISAVIYgICAgPj/////AQ==":"4G","CAISD3N0YWRpbmV0LTIsNGdoehiAgICA+P////8B":"4G","CAYSABiAgICA+P////8B":"Offline"}}}

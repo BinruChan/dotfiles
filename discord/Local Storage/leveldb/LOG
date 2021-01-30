@@ -1,0 +1,6 @@
+2021/01/29-16:29:53.917 a3e2 Reusing MANIFEST /home/aarni/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/01/29-16:29:54.182 a3e2 Recovering log #10
+2021/01/29-16:29:54.613 a3e2 Reusing old log /home/aarni/.config/discord/Local Storage/leveldb/000010.log 
+2021/01/29-18:01:40.142 dfad Level-0 table #14: started
+2021/01/29-18:01:40.439 dfad Level-0 table #14: 15465 bytes OK
+2021/01/29-18:01:40.506 dfad Delete type=0 #10
